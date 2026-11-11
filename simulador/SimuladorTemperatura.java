@@ -7,7 +7,7 @@ public class SimuladorTemperatura {
     static String[] opciones = {"BiblioTec", "LibroYa", "PrestaLibro", "LectoGo", "PaginaLibre", "NubeDeTinta"};
 
     // Puntaje que el modelo le da a cada opcion (mayor = mas probable)
-    static double[] puntajes = {3.0, 2.5, 2.0, 1.0, 0.5, 0.1};
+    static double[] p- [Tarea: mi prompt profesional](prompts/TAREA.md)- [Tarea: mi prompt profesional](prompts/TAREA.md)- [Tarea: mi prompt profesional](prompts/TAREA.md)untajes = {3.0, 2.5, 2.0, 1.0, 0.5, 0.1};
 
     public static void main(String[] args) {
         double temperatura = args.length > 0 ? Double.parseDouble(args[0]) : 1.0;
