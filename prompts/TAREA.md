@@ -1,4 +1,4 @@
-# Tarea: Diseño de Prompt Profesional para Registro de Clientes
+# Tarea: Diseño Iterativo de Prompts - Registro de Clientes
 
 En este documento se documenta el proceso iterativo de diseño de un prompt para generar un módulo de **Registro de Clientes en Java**.
 
