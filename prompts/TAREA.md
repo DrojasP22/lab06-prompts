@@ -11,13 +11,14 @@ En este documento se documenta el proceso iterativo de diseño de un prompt para
 ```text
 Crea un programa en Java para registrar clientes.
 ```
+Prompt genérico sin directrices. 
 
 ## Version 2
 
 ```text
 Actúa como un desarrollador Java Senior. Crea un programa en Java orientado a objetos para registrar clientes de una tienda comercial, usando una clase Cliente con los campos id, nombre, correo y telefono. 
 ```
-
+Se añadió el perfil de desarrollador Java Senior y el entorno de tienda
 ## Version 3: prompt final
 ```
 Actúa como un desarrollador Java Senior experto en buenas prácticas.
@@ -35,6 +36,8 @@ Cliente agregado: ID 1 - Juan Pérez - juan@mail.com - 987654321
 
 Formato: Explica brevemente la estructura de las clases en 2 párrafos y luego presenta el código Java completo y ejecutable dentro de un único bloque de código.
 ```
+Se agregaron restricciones de librerías, formato de salida y menú interactivo.
+
 ## Componentes del prompt final
 
 | Componente | Texto de mi prompt final |
